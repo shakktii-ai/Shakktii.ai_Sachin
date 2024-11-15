@@ -510,7 +510,7 @@ export default function Home() {
 
       <div className="p-4 bg-white max-w-xl mx-auto text-center">
         <h1 className="text-lg font-semibold text-blue-800">
-        255- फल्टन विधानसभा सार्वत्रिक निवडणूक 2024
+        255- फलटण कोरेगाव विधानसभा सार्वत्रिक निवडणूक 2024
         </h1>
         <h2 className="text-2xl font-bold text-red-600 mt-2">डमी मतदान यंत्र</h2>
         <button
@@ -593,7 +593,7 @@ export default function Home() {
             <tr>
               <td className="border-2 border-black p-2 text-center text-xl font-bold">३.</td>
               <td className="border-2 border-black text-center text-sm font-bold w-65">
-              श्री.सचिन सुधाकर पाटील.
+              श्री.सचिन पाटील.
               </td>
               <td className="border-2 border-black text-center w-16">
                 <img src="/SACHIN.jpg" className=" m-auto" />
