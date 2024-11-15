@@ -598,8 +598,8 @@ export default function Home() {
               <td className="border-2 border-black text-center w-16">
                 <img src="/SACHIN.jpg" className=" m-auto" />
               </td>
-              <td className="border-2 border-black text-center">
-                <img src="/images.jpg" className="m-auto" />
+              <td className="border-2 border-black text-center w-16">
+                <img src="/Clock.png" className=" m-auto" />
               </td>
               <td className="border-2 border-black p-4 bg-orange-100 text-center flex flex-row justify-center">
                 <div
